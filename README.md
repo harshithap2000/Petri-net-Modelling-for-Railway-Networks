@@ -68,7 +68,7 @@ Exit is represented as a simple sink transition t<exit_section><0> and can also 
 
 The full model is shown with initial markings indicating that all sections are initially empty.
 
-![Figure 11: Full Model](./PetriDiagram/fullmodel.drawio.svg)
+![Figure 11: Full Model](./PetriDiagram/Full_Petri_Net_Diagram.png)
 
 Uni-directional sections only have one place (sections 1, 2, 5, 6, 8, 10); bidirectional sections have two places with $L$ and $R$ sub-indices to indicate the travel direction of trains on those sections (sections 4, 7, 9, 11). Section 3 has 3 places, with $U$ indicating presence of trains travelling from 3 to 4, $L$ from $3$ to $5$, and $R$ $5$ to $3$.
 
